@@ -1,6 +1,6 @@
 # Hola, mi nombre es Imanol Nuñez Olmos
 
-_[My profile (in English)](README_ENG.md)_
+_[Profile (English)](README_ENG.md)_
 
 ## Estudiante avanzado de Ingeniería en Sistemas de Información
 
